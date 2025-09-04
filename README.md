@@ -1,4 +1,4 @@
-# Frontend Mentor - [Social Links Page]
+# Frontend Mentor - Social Links Page
 
 This is a challenge from [Frontend Mentor](https://www.frontendmentor.io) for practice HTML & CSS.
 
